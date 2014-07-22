@@ -1,4 +1,4 @@
 C/C++ extra libraries
 =====================
 
-Some (un)useful libraries for C/C++
+Some (un)useful C/C++ libraries
